@@ -9,5 +9,7 @@
     This line is Added in MAIN BRANCH!
 
     This line is Added in BRANCH 1!
+
+    This line is Added in BRANCH 2!
 </body>
 </html>
